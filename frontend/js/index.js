@@ -1,2 +1,2 @@
-alert("Hello from Js!");
+// alert("Hello from Js!");
 console.log("Hello from js:");
