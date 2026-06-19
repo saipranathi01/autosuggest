@@ -1,2 +1,2 @@
 # autosuggest
-verifying my set-up
+verifying my set-up;
