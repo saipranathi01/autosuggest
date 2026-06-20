@@ -47,3 +47,9 @@ body{
 .card img{
     width:100%;
 }
+button{
+    padding:10px;
+    background-color:lightblue;
+    border:none;
+    
+}
