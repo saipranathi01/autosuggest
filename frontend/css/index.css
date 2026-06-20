@@ -18,16 +18,18 @@ h1 {
     text-align:center;
 }
 .navbar{
-    border:2px;
+    border:3px;
     border-color:black;
     border-style:solid;
-    padding:15px;
+    padding:30px;
     background-color:lightblue;
     text-align:center;
+   
 }
 .navbar a{
     color:black;
     padding:15px;
+    font-size:25px;
     text-decoration:none;
 }
 .navbar a:hover{
