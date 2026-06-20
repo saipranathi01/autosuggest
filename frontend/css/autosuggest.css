@@ -1,4 +1,28 @@
+.gear{
+    position:fixed;
+    top:10px;
+    left:30px;
+}
 .pill{
-    text-align:right;
-    
+    position:fixed;
+    top:10px;
+    right:30px;
+
+}
+.main-content{
+    text-align:center;
+}
+.search-bar{
+   border-radius:30px;
+   padding-left:30px;
+   padding-right:20px;
+   padding-top:10px;
+   padding-bottom:10px;
+}
+.lens{
+    position:relative;
+    top:3px;
+    bottom:10px;
+    right:10px;
+    left:30px;
 }
