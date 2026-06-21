@@ -1,4 +1,3 @@
-// https://autosuggest-backend.onrender.com/api/autosuggest?q=a&weighted=true&algorithm=trie&limit=8
 var API_URL= "https://autosuggest-backend.onrender.com/api/autosuggest";
 var searchBar= document.getElementById("search-bar");
 var searchSuggestion=document.getElementById("search-suggestion");
